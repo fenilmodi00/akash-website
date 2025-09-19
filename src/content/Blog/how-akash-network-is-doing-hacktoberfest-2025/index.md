@@ -58,4 +58,4 @@ Let's show the open-source world the true power of decentralized cloud **togethe
 - If they're new to Akash, they can start as a contributor.
 - If they're a builder or maintainer, they can champion Akash integration and win even bigger.
 
-You're effectively running an **open-source contribution drive AND a showcase for projects using Akash**which will get you more grassroots adoption, more PR momentum, and more real-world testimonials for Akash's supercloud.
+You're effectively running an **open-source contribution drive AND a showcase for projects using Akash** which will get you more grassroots adoption, more PR momentum, and more real-world testimonials for Akash's supercloud.
