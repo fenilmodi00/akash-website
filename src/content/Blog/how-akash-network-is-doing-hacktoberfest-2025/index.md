@@ -34,7 +34,7 @@ We're celebrating Hacktoberfest with **two powerful tracks** each designed to re
 - If you maintain or build a project (personally, in a team, or as a collective), enter it into the Akash Hacktoberfest Showcase.
 - Your project must **actively use Akash as a cloud provider** that could be for hosting, compute, GPU tasks, decentralized dApps, or even as part of your workflow.
 - The community will select standout projects that best demonstrate the real-world power of Akash Supercloud.
-- Four winning projects will each receive **$150 Akash Compute Credits** and a **exclusive swag pack** for the main maintainer plus global spotlight across Akash's channels.
+- Four winning projects will each receive **$100 Akash Compute Credits** and a **exclusive swag pack** for the main maintainer plus global spotlight across Akash's channels.
 
 *This is the perfect chance to advocate for your project, incentivize your OSS community, and inspire new builders to try Akash!*
 
@@ -53,9 +53,3 @@ We're celebrating Hacktoberfest with **two powerful tracks** each designed to re
 Let's show the open-source world the true power of decentralized cloud **together!**
 
 ***
-
-**Bonus:** This structure makes it super clear for anyone landing on your page:  
-- If they're new to Akash, they can start as a contributor.
-- If they're a builder or maintainer, they can champion Akash integration and win even bigger.
-
-You're effectively running an **open-source contribution drive AND a showcase for projects using Akash** which will get you more grassroots adoption, more PR momentum, and more real-world testimonials for Akash's supercloud.
